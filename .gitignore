@@ -1,0 +1,10 @@
+automation/.env
+automation/.venv/
+automation/__pycache__/
+automation/pages/__pycache__/
+automation/tests/__pycache__/
+automation/utils/__pycache__/
+.pytest_cache/
+*.py[cod]
+*.coverage
+test-results/
